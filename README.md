@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/vZ7zhNX/fondo-Games.png" alt="c"/>
 
-# First C Project: Artificial Inteligence for Connect 4
+# First C Project: Artificial Intelligence for Connect 4
 
 C project created in 2019. It is an artificial intelligence for the game 4 in a row using a Minimax Algorithm.
 
